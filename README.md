@@ -1,7 +1,9 @@
+
+###  Hola, soy Ervin Cordova Triano! 👋
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-### Hola, soy Ervin Cordova Triano! 👋
+
 ---
-<p> <em>Soy desarrollador de software desde los 12 anios</em> </p>
+<p> <em>Soy desarrollador Java FullStack. Desde los 12 años empecé en el mundo de la programación, desde entonces descubrí que este es el mundo que realmente me apasiona</em> </p>
 
 [![](https://img.shields.io/badge/LinkedIn-ervintriano-blue)](https://www.linkedin.com/in/ervin-triano-dev/)
 [![](https://img.shields.io/badge/Gmail-ervintdeveloper@gmail.com-red)](mailto:ervintdeveloper@gmail.com)
